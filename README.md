@@ -72,6 +72,6 @@ TEC-1C 1991 PCB designed by Craig Hart. June 1990. All white on green PCB; no st
 
 TEC-1D 2018 Reproduction board by Ben Grimmett. White on green PCB. TEC 1D annotation on solder mask side. Revision information listed below the keyboard, component side. Made with Colin Mitchell's blessing.
 
-TEC-1E 2020 "MIT-Z" design by Ken Stone. Many new features. Currently at prototype stage. Not 100% TEC-1 compatible. (Ken coments: actually, it is, if you copy an original EPROM to a larger EPROM, but plans were to change the location of the stack)
+TEC-1E 2020 "MIT-Z" new design by Ken Stone. White on Red PCB. Many new features. Currently at prototype stage. Not 100% TEC-1 compatible. (Ken coments: actually, it is, if you copy an original EPROM to a larger EPROM, but plans were to change the location of the stack). Double sided, no links.
 
-TEC-1F 2021 by Craig Jones. Many design improvements. 2k and 8k addressing modes. Bit bang serial. Keyboard buffer chip. Allows for differnt types of keyboasrd keyswitches. Attempt to modernize TEC to allow modern PC based software development and modern components, whilst staying true to the TECs origins.
+TEC-1F 2021 by Craig Jones. White on Green PCB. Double sided, no links. Many design improvements. 2k and 8k addressing modes. Bit bang serial. Keyboard buffer chip. Crystal oscillator integrated. Allows for differnt types of keyboard keyswitches. Attempt to modernize TEC to allow modern PC based software development and modern components, whilst staying true to the TECs origins.
