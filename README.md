@@ -15,23 +15,23 @@ In short, the following major design revisions exist:
 
 ## Design Revisions
 
-TEC-1 (Issue 10, original, 1983). 7805 regulator above PCB bottom left corner. 8212 display latch chips. No Shift key. MON-1 monitor ROM by John Hardy.
+- TEC-1 (Issue 10, original, 1983). 7805 regulator above PCB bottom left corner. 8212 display latch chips. No Shift key. MON-1 monitor ROM by John Hardy.
 
-TEC-1A (Issue 12). Issue 12 page 14 states "The regulator is mounted under the PC board so that it cannot be bent over and broken off, the 2,200uf electrolytic has been changed to 1,000uf and the output latches have been changed to 74LS273 (or 74LS 374 or 74LS377). In all other respects, the boards are identical."
+- TEC-1A (Issue 12). Issue 12 page 14 states "The regulator is mounted under the PC board so that it cannot be bent over and broken off, the 2,200uf electrolytic has been changed to 1,000uf and the output latches have been changed to 74LS273 (or 74LS 374 or 74LS377). In all other respects, the boards are identical."
 
-TEC-1B (Issue 13). Adds SHIFT key and MON-2 Monitor ROM by Ken Stone.
+- TEC-1B (Issue 13). Adds SHIFT key and MON-2 Monitor ROM by Ken Stone.
 
-TEC-1B Rev.1 (Just before issue 15, 1990). Minor improvements by Craig Hart including improved labelleing of IO & memory decoder outputs, CPU pin labelling, improved IO and memory map decoding, JMON resistor.
+- TEC-1B Rev.1 (Just before issue 15, 1990). Minor improvements by Craig Hart including improved labelleing of IO & memory decoder outputs, CPU pin labelling, improved IO and memory map decoding, JMON resistor.
 
-TEC-1C (After Issue 15, 1991). CAD version by Craig Hart including mods for JMON resistor and better MON1/2 select switch, smaller speaker.
+- TEC-1C (After Issue 15, 1991). CAD version by Craig Hart including mods for JMON resistor and better MON1/2 select switch, smaller speaker.
 
-TEC-1D Reproduction board by Ben Grimmett, 2018. Includes all mods to date.
+- TEC-1D Reproduction board by Ben Grimmett, 2018. Includes all mods to date.
 
-TEC-1E "MIT-Z" design by Ken Stone, 2020.
+- TEC-1E "MIT-Z" design by Ken Stone, 2020. significant design changes, improvements and expansions.
 
-TEC-1F Reproduction board by Craig Jones. 2021. Supports original 2k or alternate 8k ROM and RAM devices, keyboard buffer chip, bit banged serial IO port.
+- TEC-1F Reproduction board by Craig Jones. 2021. Supports original 2k or alternate 8k ROM and RAM devices, keyboard buffer chip, bit banged serial IO port.
 
-##Detailed Cronology
+## Detailed Cronology
 
 First "Z-80 computer" prototype. This was not actually called a TEC-1, and was unlike any that are shown in the photos. It was casually refered to as Orac. It has not survived. Built by John Hardy.
 
