@@ -1,4 +1,4 @@
-## The following tablee summarises various design changes made to the TEC-1 family of PCBs throughout the years.
+## The following table summarises various design changes made to the TEC-1 family of PCBs throughout the years.
 
 
 | Designer     | Major Revision  | ROM RD bus clash | I/O port wraparound | Memory wraparound        | SHIFT Key | JMON Keyboard MOD  | Output Latches  |
