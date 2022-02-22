@@ -18,14 +18,15 @@ TEC-1A (Issue 12). Issue 12 page 14 states "The regulator is mounted under the P
 
 TEC-1B (Issue 13). Adds SHIFT key and MON-2 Monitor ROM by Ken Stone.
 
-TEC-1B Rev.1 (Just before issue 15, 1990). Minor improvements by Craig Hart including improved labelleing of IO, memory port & other CPU pins.
+TEC-1B Rev.1 (Just before issue 15, 1990). Minor improvements by Craig Hart including improved labelleing of IO & memory decoder outputs, CPU pin labelling, improved IO and memory map decoding, JMON resistor.
 
-TEC-1C (After Issue 15, 1991). CAD version by Craig Hart including mods for JMON and MON1/2 select switch.
+TEC-1C (After Issue 15, 1991). CAD version by Craig Hart including mods for JMON resistor and better MON1/2 select switch, smaller speaker.
 
-TEC-1D Reproduction board by Ben Grimmit, 2018.
+TEC-1D Reproduction board by Ben Grimmett, 2018. Includes all mods to date.
 
 TEC-1E "MIT-Z" design by Ken Stone, 2020.
 
+TEC-1F Reproduction board by Craig Jones. 2021. Supports original 2k or alternate 8k ROM and RAM devices, keyboard buffer chip, bit banged serial IO port.
 
 
 Detailed cronology follows:
