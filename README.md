@@ -19,11 +19,11 @@ In short, the following major design revisions exist:
 
 - TEC-1 (Issue 10, original, 1983). 7805 regulator above PCB bottom left corner. 8212 display latch chips. No Shift key. MON-1 monitor ROM by John Hardy.
 
+- TEC-1 New Zealand Production. Bare fibreglass single-sided PCB. Some boards sold in New Zealand were produced locally by an NZ based distributor agent and have different labelling on the solder side under the keyboard, and don't have a silk screen overlay or solder mask. The boards are otherwise apparently identical to 1B trackwork.
+
 - TEC-1A (Issue 12). Issue 12 page 14 states "The regulator is mounted under the PC board so that it cannot be bent over and broken off, the 2,200uf electrolytic has been changed to 1,000uf and the output latches have been changed to 74LS273 (or 74LS 374 or 74LS377). In all other respects, the boards are identical."
 
 - TEC-1B (Issue 13). Adds SHIFT key and MON-2 Monitor ROM by Ken Stone.
-
-- TEC-1B New Zealand Production. Bare fibreglass single-sided PCB. Some boards sold in New Zealand were produced locally by an NZ based distributor agent and have different labelling on the solder side under the keyboard, and don't have a silk screen overlay or solder mask. The boards are otherwise apparently identical to 1B trackwork. 
 
 - TEC-1B Rev.1 (Just before issue 15, 1990). Minor improvements by Craig Hart including improved labelling of IO & memory decoder outputs, CPU pin labelling, improved IO and memory map decoding, JMON resistor.
 
