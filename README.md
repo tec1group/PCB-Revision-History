@@ -72,9 +72,11 @@ TEC-1B Rev.1. 1989. PCB design mods by Craig Hart. Released just prior issue 15.
 
 TEC-1B CAD Prototype designed by Craig Hart. Early 1990. Possibly a prototype but not released in production. Used to develop PC based design skills; designed in Protel Autotrax for DOS on an XT computer, and was possibly TE's first in-house CAD based PCB project. Previous PCBs were all done by hand with traditional tape and stencil on vellum.
 
-TEC-1C 1991 PCB designed by Craig Hart. June 1990. All white on green PCB; no stripe. TEC 1C annotation on solder mask side. Added some mods to incorporate JMON requirements (e.g. 4k7 keyboard mod resistor), MON select switch, Mini PCB speaker. The 1C may have been the last run produced by TE, as the company was all but out of business by the mid 90's. I believe that only one batch of 1C PCBs was ever produced. A 1C prototype was assembed to validate the CAD design worked; I did have this unit for a number of years but has been misplaced in various house moves over the years and is most likely destroyed -Craig H.
+TEC-1C 1991 PCB designed by Craig Hart. June 1990. All white silkscreen on green PCB; no stripe. TEC 1C annotation on solder mask side. 060690 or 250195 date code on component side below keypad. Added some mods to incorporate JMON requirements (e.g. 4k7 keyboard mod resistor), MON select switch, Mini PCB speaker.  A 1C prototype was assembed to validate the CAD design worked; I did have this unit for a number of years but has been misplaced in various house moves over the years and is most likely destroyed -Craig H. At least two batches of 1C PCBs was produced (060690 and 250195 date codes).
 
-TEC-1D 2018 Reproduction board by Ben Grimmett. White on green PCB. TEC 1D annotation on solder mask side. Revision information listed below the keyboard, component side. Made with Colin Mitchell's blessing.
+TEC-1D T.E. Edition. Single Sided PCB (Wire links), "250195 rev 200896" date code on component side below keypad. White silkscreen on green PCB, no stripe. The 1D appears to be the last run produced by TE, as the company was all but out of business by the mid/late 90's.
+
+TEC-1D 2018 Reproduction board by Ben Grimmett. Double sided PCB (No links required). White on green PCB. TEC 1D annotation on solder mask side. Revision information listed below the keyboard, component side. Made with Colin Mitchell's blessing.
 
 TEC-1E 2020 "MIT-Z" new design by Ken Stone. White on Red PCB. Many new features. Currently at prototype stage. Not 100% TEC-1 compatible. (Ken coments: actually, it is, if you copy an original EPROM to a larger EPROM, but plans were to change the location of the stack). Double sided, no links.
 
